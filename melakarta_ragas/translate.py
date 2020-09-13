@@ -6,14 +6,12 @@ import string
 
 print("Shruti to Interval Ratio Translator ")
 
-
 inFilename = raw_input("enter full the filename of your input file: ")
 outFilename = raw_input("enter full the filename of your output file: ")
 
 inFile = open(inFilename, "r")
 inLines = inFile.readlines()
 raw = []
-
 
 for scale in inLines:
     splitScale = scale.split(" ")
@@ -23,7 +21,6 @@ for scale in inLines:
     #print(i.split("\n"))
 
 print(raw)
-
 
 print("~~~~~")
 
@@ -35,12 +32,9 @@ for i in raw:
     print(currentScale)
     scales.append(currentScale)
 
-
 outFile = open(outFilename, "w")
 for i in scales:
     for j in i:
         outFile.write(j + " ")
     outFile.write("\n")
-
-    
     
