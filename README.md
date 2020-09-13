@@ -17,6 +17,7 @@ For now, capital letters only. Because Carnatic music is commonly written using 
 
 Acceptable input notes look like: 
 S R₁ G1 M₁ P D2 N₃ Ṡ
+
 Unacceptable:
 R 1 n2 m1 N4 
 
