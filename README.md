@@ -1,7 +1,7 @@
 # alliums-Melakarta-Ragas-in-Interval-Ratios
 The 72 Melakarta Ragas of Carnatic music expressed in the form of interval ratios. 
 
-A raga can be thought of like a scale. Given a tonic note, a raga determines the mathematical ratios of distances between the tonic and the rest of the swaras in the raga.
+A raga can be thought of like a scale. Given a tonic note, a raga determines the distances between the tonic and the rest of the swaras in the raga.
 
 The intention of this project is twofold.
 1. To advance and proliferate the study of Carnatic music by converting an essential building block of the art form to a format that can be easily utilized in synthesis.
