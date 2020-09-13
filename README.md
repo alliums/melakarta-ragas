@@ -33,3 +33,10 @@ Eventually I am planning on implementing:
 1. Directly output scales to individual, formatted .scl files
 2. Alternate tunings
 
+I learned the ratios from:
+IJCSI International Journal of Computer Science Issues, Vol. 7, Issue 4, No 7, July 2010
+ISSN (Online): 1694-0784
+ISSN (Print): 1694-0814
+Fundamental Frequency Estimation of Carnatic Music
+Department of Computer Science and Engineering
+Anna University, Chennai, India
