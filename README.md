@@ -27,7 +27,7 @@ For now, this project uses 16 distinct swaras that are identified by specific in
 Yeah, it's a mess, i'm working on it. 
 ~
 
-Check the wiki for future goals github.com/alliums/melakarta-ragas
+Check the [wiki](https://github.com/alliums/melakarta-ragas/wiki) for information about this project and future goals.
 
 ratios from:
 IJCSI International Journal of Computer Science Issues, Vol. 7, Issue 4, No 7, July 2010
