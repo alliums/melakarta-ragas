@@ -1,8 +1,8 @@
-# NOT CURRENTLY WORKING - wait an hour or two, i'm working on it
-
 # melakarta-ragas
+The 72 Melakarta Ragas of Carnatic music expressed in the form of interval ratios, in .scl files. 
 
-The 72 Melakarta Ragas of Carnatic music expressed in the form of interval ratios. 
+## Currently in good order!
+or so it seems...
 
 Check the [wiki](https://github.com/alliums/melakarta-ragas/wiki) for information about this project and future goals.
 
