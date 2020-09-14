@@ -2,14 +2,6 @@
 
 The 72 Melakarta Ragas of Carnatic music expressed in the form of interval ratios. 
 
-A raga is basically a melodic mode. Among other things, it provides musical key, a framework for harmony by way of determining proportions of space between notes.
-
-The intention of this project is twofold.
-1. To advance and proliferate the study of Carnatic music by converting some of the essential building blocks of the harmonic framework of the system to a format that can be easily utilized in synthesis and sequencing.
-2. To create a lightweight script that anyone can use to convert written music from Carnatic swaras to the universal, mathematically impartial system of interval notation.
-
-This was designed with sound synthesis in mind, specifically to quantize scales, chords, and arpeggios. Some Carnatic scales were already available, like on the Mutable Instruments Marbles, but there are far from enough. The popular Scala database of 4,00 samples contains only 2 of the Melakarta Ragas. My goal is to have a comprehensive offering of the essential ragas in with all of their harmonic variations different versions in .scl format in the public domain for anyone to use.
-
 
 Usage...
 
