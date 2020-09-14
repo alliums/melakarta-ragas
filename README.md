@@ -4,10 +4,6 @@
 
 The 72 Melakarta Ragas of Carnatic music expressed in the form of interval ratios. 
 
-~
-Yeah, it's a mess, i'm working on it. 
-~
-
 Check the [wiki](https://github.com/alliums/melakarta-ragas/wiki) for information about this project and future goals.
 
 ratios from:
