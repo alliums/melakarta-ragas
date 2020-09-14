@@ -27,9 +27,7 @@ For now, this project uses 16 distinct swaras that are identified by specific in
 Yeah, it's a mess, i'm working on it. 
 ~
 
-Eventually I am planning on implementing:
-1. Directly output scales to individual, formatted .scl files
-2. Alternate tunings
+Check the wiki for future goals github.com/alliums/melakarta-ragas
 
 ratios from:
 IJCSI International Journal of Computer Science Issues, Vol. 7, Issue 4, No 7, July 2010
