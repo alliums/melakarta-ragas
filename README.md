@@ -1,4 +1,5 @@
-# alliums-Melakarta-Ragas-in-Interval-Ratios
+# melakarta-ragas
+
 The 72 Melakarta Ragas of Carnatic music expressed in the form of interval ratios. 
 
 A raga is basically a melodic mode. Among other things, it provides musical key, a framework for harmony by way of determining proportions of space between notes.
