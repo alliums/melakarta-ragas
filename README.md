@@ -1,3 +1,5 @@
+# NOT CURRENTLY WORKING - wait an hour or two, i'm working on it
+
 # melakarta-ragas
 
 The 72 Melakarta Ragas of Carnatic music expressed in the form of interval ratios. 
